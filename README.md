@@ -1,1 +1,1 @@
-# Mini-Player
+# Music Player
